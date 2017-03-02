@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "622BBB6A5CE8DB4843AD75AA4F84E80CF452439E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "622BBB6A5CE8DB4843AD75AA4F84E80CF452439E" : 9223372036854775807,
+    "08651369E74A4D62F2922E0DF9A81809CA45A3E6" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CC26946C-B2F8-4349-85C9-63EF34A586A3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "622BBB6A5CE8DB4843AD75AA4F84E80CF452439E" : "p03-xu\/",
+    "08651369E74A4D62F2922E0DF9A81809CA45A3E6" : "p03-png\/Doodle-Jump-X\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DoodleJump",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DoodleJump\/DoodleJump.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Geek4IT\/Doodle-Jump-X.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "08651369E74A4D62F2922E0DF9A81809CA45A3E6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/mxu24\/p03-xu.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "622BBB6A5CE8DB4843AD75AA4F84E80CF452439E"
+    }
+  ]
+}
